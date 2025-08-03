@@ -6,6 +6,7 @@
       {
         "id": "e6371e4a948d749d",
         "type": "tabs",
+        "dimension": 52.40601503759399,
         "children": [
           {
             "id": "6fcb6265955c31ba",
@@ -41,6 +42,7 @@
       {
         "id": "d3f2b54b17b64a1a",
         "type": "tabs",
+        "dimension": 47.59398496240602,
         "children": [
           {
             "id": "a3fbd5665557eee9",
@@ -236,10 +238,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "602d6a42bf5df239",
+  "active": "867e6b8730e48e21",
   "lastOpenFiles": [
-    "Welcome.md",
     "local git hub.md",
+    "Welcome.md",
     "ZDLRA.md",
     "conflict-files-obsidian-git.md",
     "new vault.md"
