@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "local git hub.md",
+                "file": "ZDLRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "local git hub"
+              "title": "ZDLRA"
             }
           }
         ]
@@ -114,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ZDLRA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ZDLRA"
             }
           },
           {
@@ -132,11 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ZDLRA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from ZDLRA"
             }
           },
           {
@@ -160,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "ZDLRA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of ZDLRA"
             }
           },
           {
@@ -197,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "419a1ca6b1eec037",
+  "active": "a3fbd5665557eee9",
   "lastOpenFiles": [
     "local git hub.md",
     "conflict-files-obsidian-git.md",
