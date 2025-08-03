@@ -9,4 +9,8 @@ create a backup and say what you know :
 
 #power
 
+<<<<<<< HEAD
 #im-tired 
+=======
+#salam
+>>>>>>> origin/main
