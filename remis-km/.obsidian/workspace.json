@@ -119,8 +119,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fcb6265955c31ba",
+  "active": "9cb89b521148c9ec",
   "lastOpenFiles": [
     "ZDLRA.md",
     "conflict-files-obsidian-git.md",
