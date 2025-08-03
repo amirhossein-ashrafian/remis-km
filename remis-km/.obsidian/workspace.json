@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#exadata",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,10 +252,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8233dae02c1dddd0",
+  "active": "9cb89b521148c9ec",
   "lastOpenFiles": [
-    "problem.md",
     "divar.md",
+    "problem.md",
     "ZDLRA.md",
     "local git hub.md",
     "Welcome.md",
