@@ -5,3 +5,8 @@ how to reimage ZDLRA step by step.
 create a backup and say what you know : 
 
 #سلام
+#tag
+
+#power
+
+#
