@@ -1,6 +1,6 @@
 
 
-i have a new problem in my project , please help me!
+I have a new problem in my project , please help me!
 #help
 
 #koooomak
