@@ -1,0 +1,1 @@
+we can trust to obsidian , and it can help me in as km . 
