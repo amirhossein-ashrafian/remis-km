@@ -185,19 +185,9 @@
               "icon": "lucide-list",
               "title": "Outline of problem"
             }
-          },
-          {
-            "id": "419a1ca6b1eec037",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "419a1ca6b1eec037",
+  "active": "26ef4df1ba8749af",
   "lastOpenFiles": [
     "divar.md",
     "ZDLRA.md",
