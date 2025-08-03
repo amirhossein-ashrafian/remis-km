@@ -20,9 +20,15 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d3f2b54b17b64a1a",
+        "type": "tabs",
+        "children": [
           {
-            "id": "602d6a42bf5df239",
+            "id": "a3fbd5665557eee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,53 +41,7 @@
               "title": "local git hub"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d3f2b54b17b64a1a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a3fbd5665557eee9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "d8d3a71b05d3eb73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new vault.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "new vault"
-            }
-          },
-          {
-            "id": "867e6b8730e48e21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZDLRA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ZDLRA"
-            }
-          }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 300
   },
   "right": {
     "id": "e132056370d04768",
@@ -154,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "local git hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for local git hub"
             }
           },
           {
@@ -172,11 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "local git hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from local git hub"
             }
           },
           {
@@ -200,12 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "local git hub.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of local git hub"
             }
           },
           {
@@ -236,12 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "602d6a42bf5df239",
+  "active": "a3fbd5665557eee9",
   "lastOpenFiles": [
-    "Welcome.md",
-    "local git hub.md",
     "ZDLRA.md",
-    "conflict-files-obsidian-git.md",
+    "local git hub.md",
+    "Welcome.md",
     "new vault.md"
   ]
 }
